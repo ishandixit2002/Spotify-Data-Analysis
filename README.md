@@ -1,6 +1,3 @@
-![image](https://drive.google.com/file/d/1vI75TXX603XChqpOlqfA9sl4bL6DBHW6/view?usp=drive_link)
-
-
 
 # Spotify_Data_Exploration
 
