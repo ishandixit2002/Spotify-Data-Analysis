@@ -7,11 +7,7 @@ You can download the Dataset from Kaggle using the [link](https://www.kaggle.com
 
 I have solved the Business Problem by using SQL and Python Both.
 
-<br>
 
-You can check my approach for Python Solution using the [link]().
-
-<br>
 <hr>
 For Solution using SQL, Go through with the following: 
 
